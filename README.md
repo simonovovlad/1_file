@@ -12,3 +12,4 @@ images for the first seminar
 <img width="430" alt="q" src="https://user-images.githubusercontent.com/112642610/188758379-d8d519b3-6689-43c7-bfc5-31d3135cc5f6.PNG">
 
 <img width="491" alt="git_diff" src="https://user-images.githubusercontent.com/112642610/188758606-368da1bc-8f94-4236-98a9-bd27282df4ce.PNG">
+![Korgi](https://user-images.githubusercontent.com/112642610/189539915-48b422a8-ab72-4184-996b-a2ee15959a64.jpg)
